@@ -1,0 +1,346 @@
+/*start section 1 */
+*{
+
+	margin:0;
+	padding:0;
+
+
+}
+body
+{
+	height:2600px;
+
+
+}
+
+ .container
+{
+	width:1050px;
+	margin:auto;
+}
+
+.header
+{
+	background-color:blueviolet;
+	width:100%;
+	height:400px;
+}
+.header .heading
+{
+	width:50%;
+	float:left;
+	margin-top:160px;
+	
+	height:50px;
+	border-right: 1px solid #DDD;
+}
+
+
+.header .heading h2
+{
+	font-size:29px;
+	color:#fff;
+	line-height: 1.8;
+	
+}
+.header .heading h2 span:hover
+{
+	color:#00BCBA;
+	cursor:pointer;
+}
+.header .feugiat 
+{
+	width:40%;
+	float:right;
+	margin-left:70px;
+	margin-top:160px;
+
+
+}
+
+.header .feugiat p
+{
+	font-family:Tahoma;
+	
+	line-height:1.5;
+	color:darkgray;
+	font-size:20px;
+	
+	
+}
+.header .feugiat button
+{
+	border:0;
+	background: none;
+	color: #fff;
+	font-size: 20px;
+	background: #00BCBA;
+	padding: 15px;
+	border-radius: 50px;
+	width: 200px;
+	text-transform: uppercase;
+	outline: 0;
+	cursor: pointer;
+	margin-top:10px;
+	
+
+}
+
+/*end section 1 */
+/*start section */
+
+
+/*end section */
+.Magna
+{
+	width:100%;
+	float:left;
+	height:490px;
+	border-bottom:2px solid #DDD;
+	
+}
+.Magna .learn
+{
+	float:left;
+	width:50%;
+	border-right:2px solid #DDD;
+	margin-top:60px; 
+
+}
+.Magna .learn h3
+{
+	margin-top:30px ;
+	margin-bottom:30px ;
+	font-size:35px;
+	color:#777;
+
+}
+.Magna .learn p
+{
+	margin-bottom:30px;
+	font-family:Tahoma;
+	font-size:17px;
+	color:#888;
+	line-height:1.8;
+
+}
+.Magna .learn button
+{
+	text-transform:uppercase;
+	width:180px;
+	border-radius:30px;
+	outline:0;
+	background:#FFF;
+	color:#777; 
+	border:1px solid #DDD;
+	cursor:pointer;
+	padding:19px ;
+
+}
+.Ipsum
+{
+	
+	width: 40%;
+	margin-left:4%;
+	float:left; 
+	margin-top:100px;
+	visibility: hidden;
+
+}
+.Ipsum p
+{
+	font-size:20px;
+	font-family:Tahoma;
+	color:#777;
+	line-height:10px;
+	
+}
+.Ipsum i
+{
+	padding-right:13px;
+	line-height:1.2;
+}
+
+
+
+
+/*end this fucking section */
+/*s tear a fucking one */
+/* start tempus */
+.tempus
+{
+	width:100%;
+	height:  auto 1200px;
+	padding-top:90px;
+	overflow:hidden;
+	padding-bottom:90px;
+	background:#F2f2f2;
+}
+.tempus .part1 img
+{
+	float:left;
+	width:40%;
+	margin-top: 70px
+}
+.tempus  .part1 .he 
+
+{
+	padding-top:120px; 
+	padding-left:70px; 
+	width:40%;
+	float:left;
+
+
+}
+.tempus  .part1 .he h5
+{
+	font-size:30px;
+	color:#777;
+}
+.tempus  .part1 .he p
+{
+	padding-top:50px;
+	font-size:20px;
+	line-height:1.8;
+	color:#888;
+}
+.tempus  .part1 .he button
+{
+	width:190px;
+	height:60px;
+	background:none;
+	border-radius:29px;
+	border:1px solid #DDD;
+	outline:0;
+	font-size:16px;
+	padding:18px;
+	border-bottom:1px solid #DDD;
+	cursor:pointer;
+	color:#777;
+	text-transform:uppercase 
+
+}
+.tempus  .part1 .he button:hover
+{
+	background-color:#888;
+	color: #fff;
+}
+
+.clear
+{
+	clear:both;
+}
+
+
+/* end tempus */
+
+/* start form */
+.form
+{
+	width:100%;
+	height:800px;
+	overflow:hidden;
+	padding-top:50px;
+	padding-bottom:50px;
+
+}
+.form .inputs
+{
+	width:50%;
+	float:left;
+	border-right:1px solid #DDD;
+}
+.form .inputs h6
+{
+	font-size:29px;
+	padding-top:40px;
+	font-family:Tahoma;
+	color:#777;
+
+}
+.form .inputs p
+{
+	padding-top:30px; 
+	padding-bottom:40px;
+	font-size:20px;
+	color:#777; 
+	font-family:Tahoma;
+	line-height:2;
+	
+
+}
+
+.form .inputs  [type=Email] ,   [type=text]
+{
+	width: 200px;
+	height: 50px;
+	padding-left: 20px;
+	margin-bottom: 10px;
+	outline: 0;
+	font-size: 20px;
+	color:#777;
+
+}
+.form .inputs textarea
+{
+	font-size:20px;
+	outline: 0;
+	padding-left: 20px;
+	margin-bottom: 30px;
+	margin-top: 30px;
+
+}
+.form .inputs input[type=submit]
+{
+	outline:0;
+	width:190px;
+	height:70px;
+	border-radius:25px;
+	text-transform: uppercase;
+	color:#777;
+	background: none;
+	cursor:pointer;
+
+}
+.form .links
+{
+	width:40%;
+	float:left;
+	margin-left:40px; 
+	margin-top:80px; 
+
+}
+
+.form .links p
+{
+	line-height:3;
+	margin-left:20px; 
+	font-weight:bold;
+	border-bottom:1px solid #DDD;
+}
+.form .links p i
+{
+	
+	padding-right: 25px;
+	color: #00BCBA;
+
+}
+.footer
+{
+	width:100%;
+	border-top:1px solid #777;
+}
+.footer p
+{
+	font-size:23px;
+	text-align:center;
+	line-height:150px;
+	color:#777;
+}
+.footer span:hover
+{
+	color:#00BCBA;
+}
+
+/* end form */
+
